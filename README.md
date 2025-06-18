@@ -72,7 +72,7 @@ This project followed a two-phase workflow: initial exploration in Excel and Tab
 - **Nintendo** consistently ranks at the top with strong first-party titles.  
 - Sales peaked between **2005–2009**, with a clear decline after 2010.  
 - ML helped group publishers with similar behavior, revealing efficient vs. high-volume strategies.  
-- Regional focus matters — marketing should never be one-size-fits-all.
+- Regional focus matters marketing should never be one-size-fits-all.
 
 ---
 
