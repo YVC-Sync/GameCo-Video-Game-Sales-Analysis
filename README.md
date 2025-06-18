@@ -1,11 +1,9 @@
 # 🎮 GameCo: Video Game Sales Analysis
 **Know the Data. Master the Market.**
 
-<img src="GameCo Neon Logo.png" alt="Instacart Logo" width="100">
+<img src="GameCo Neon Logo.png" alt="Instacart Logo" width="130">
 
 I analyzed global video game sales to support GameCo’s strategy across marketing, operations, and finance. This included regional genre preferences, platform trends, publisher performance, and deeper modeling using Python and machine learning. The goal was to guide GameCo on how to better target its markets and refine its planning using real data.
-
-<img src="instacart_logo.png" alt="Instacart Logo" width="200">
 
 ---
 
