@@ -19,7 +19,6 @@ I analyzed global video game sales to support GameCo’s strategy across marketi
 ---
 
 ## 🎯 The Challenge
-
 GameCo wanted to understand how different publishers and genres perform globally and regionally to strengthen its strategy. 
 
 Questions I explored:
