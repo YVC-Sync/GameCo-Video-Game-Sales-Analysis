@@ -1,4 +1,4 @@
-# 🎮 GameCo: Video Game Sales Analysis
+# GameCo: Video Game Sales Analysis
 **Know the Data. Master the Market.**
 
 <img src="GameCo Neon Logo.png" alt="Instacart Logo" width="130">
