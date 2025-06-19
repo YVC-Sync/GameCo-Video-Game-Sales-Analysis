@@ -104,16 +104,17 @@ This project helps GameCo:
 ## 📁 Repository Structure
 
 ```bash
-GameCo-Video-Game-Sales-Analysis
+GameCo-Video-Game-Sales-Analysis/
 │
-├── data/                      # Original and cleaned datasets
-├── notebooks/                # Python notebook with analysis
-├── visuals/                  # Charts and visuals used in README and case study
-├── reports/                  # Presentation, case study PDF, and slides
-├── gameco_logo.png           # Logo for GitHub display
-└── README.md                 # This file
+├── 01 Data/           # Original, cleaned, and regional Excel datasets
+├── 02 Notebooks/      # Jupyter Notebook with ML + clustering analysis
+├── 03 Tableau/        # Tableau workbook for genre, region, and publisher trends
+├── 04 Reports/        # Case study, slides, and reflection documents
+│
+├── GameCo Neon Logo.png   # Custom logo used in README header
+├── LICENSE                # Project license
+└── README.md              # Project overview and insights
 ```
-
 ---
 
 ### 🔗 View the Full Case Study  
