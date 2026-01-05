@@ -118,5 +118,5 @@ GameCo-Video-Game-Sales-Analysis/
 ---
 
 ### 🔗 View the Full Case Study  
-[📂 www.yariselvelacanto.com/analyst](http://www.yariselvelacanto.com/analyst)
+[🌐 www.yariselvelacanto.com/data](http://www.yariselvelacanto.com/data)
 
